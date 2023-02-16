@@ -1,1 +1,1 @@
-Deleted the previos README file
+Delete the previous README file
